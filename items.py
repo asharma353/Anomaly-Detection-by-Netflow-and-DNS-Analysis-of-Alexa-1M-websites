@@ -2,6 +2,7 @@
 #
 # See documentation in:
 # http://doc.scrapy.org/en/latest/topics/items.html
+#this is an amazing product
 
 from scrapy.item import Item, Field
 
