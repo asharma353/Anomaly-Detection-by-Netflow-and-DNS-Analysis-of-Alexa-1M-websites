@@ -1,3 +1,4 @@
+#import the scrapy,crawlSpider,rule,linkextractor,alexaItem and the htmlXpathSelector
 import scrapy
 from scrapy.contrib.spiders import CrawlSpider, Rule
 from scrapy.contrib.linkextractors import LinkExtractor
